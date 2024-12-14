@@ -1,0 +1,1 @@
+A hand tracking game inspired by something I saw on Tiktok, using PyGame, OpenCV, and Google's MediaPipe to create a game where a ball bounces off of lines drawn between your index fingers and thumbs where the goal is to get the ball to hit the star 10 times as fast as possible.
